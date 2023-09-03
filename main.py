@@ -20,7 +20,7 @@ class aclient(discord.Client):
     async def on_ready(self):
         await self.wait_until_ready()
         if not self.synced:
-            await tree.sync(guild=discord.Object(id="YOUR GUILD ID"))
+            await tree.sync()
             self.synced = True
 client = aclient()
 tree = app_commands.CommandTree(client)
