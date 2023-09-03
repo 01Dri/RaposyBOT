@@ -11,11 +11,11 @@ O RaposyBOT é um bot para Discord que envia imagens aleatórias de gatos e rapo
 
 1. Convide o RaposyBOT para o seu servidor Discord.
 2. Use o seguinte comando no chat para receber imagens:
-   - `!gr` para uma imagem aleatória de um gato ou raposa.
+   - `/gr` para uma imagem aleatória de um gato ou raposa.
 
 ## Exemplos de Uso
 
-- Enviando um comando no chat: `!gr`
+- Enviando um comando no chat: `/gr`
 - Recebendo uma imagem aleatória de gato ou raposa do RaposyBOT.
 
 ## Requisições
