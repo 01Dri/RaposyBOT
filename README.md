@@ -4,6 +4,9 @@
 
 O RaposyBOT é um bot para Discord que envia imagens aleatórias de gatos e raposas no chat. Ele consome duas APIs para gerar essas imagens:
 
+## Adicione o RaposyBOT em seu servidor!
+ - [RaposyBOT](https://discord.com/oauth2/authorize?client_id=1139358859073429524&scope=bot&permissions=8) link para adiciona-lo em seu servidor.
+
 - [The Cat API](https://thecatapi.com/) para imagens de gatos.
 - [Random Fox API](https://randomfox.ca/floof/) para imagens de raposas.
 
